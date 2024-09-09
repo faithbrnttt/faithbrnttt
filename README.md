@@ -1,5 +1,6 @@
 <div style="background-color: #f0f0f0; padding: 10px;">
   <h1>FAB</h1>
+  <img src="abstracts.png"/>
 </div>
 
 <div style="background-color: #FF69B4;" height: 200px; width: 200px;>
