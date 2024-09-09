@@ -10,10 +10,3 @@
     <img style="height: 30px; width: 30px; " src="portal.png"/>
     <p style="padding-inline: 1rem; padding-block: 0.25rem">Hello</p>
 </div>
-
-<div class="badges-githubstats">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=faithbrnttt&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="faithbrnttt's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=faithbrnttt&theme=tokyonight&hide_border=true" alt="faithbrnttt's Streak" height="165">
-  </p>
-</div>
