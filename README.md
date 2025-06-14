@@ -12,7 +12,6 @@
 
 <!-- Quick Stats -->
 - 🧠 Bachelor’s in Software Programming (2025)
-- 💼 Help Desk Analyst @ TEKsystems
 - 🔭 Currently building: [FAB Game Companion](https://github.com/faithbrnttt/FAB-Game-Companion)
 - 💡 Exploring: Machine Learning & Data Science
 - 🌎 Website: [faithburnett.dev](https://faithburnett.dev)
@@ -40,22 +39,5 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [FAB Game Companion](https://github.com/faithbrnttt/FAB-Game-Companion) | All-in-one media companion with Twitch, RAWG, YouTube, and game news APIs | React, Express, MongoDB |
-| [Animal Health Tracker](https://github.com/faithbrnttt/animal-health-tracker) | IoT wearable system for animal health monitoring | ESP32, MongoDB, React, Express |
 | [Image Editor](https://github.com/faithbrnttt/Image-Editor) | Simple in-browser image editor | HTML, CSS, JS |
-
----
-
-<!-- GitHub Stats -->
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faithbrnttt&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faithbrnttt&layout=compact&theme=dark" />
-</p>
-
----
-
-<!-- Footer -->
-<p align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
-</p>
 
