@@ -14,7 +14,7 @@
 - 🧠 Bachelor’s in Software Programming (2025)
 - 💼 Help Desk Analyst @ TEKsystems
 - 🔭 Currently building: [FAB Game Companion](https://github.com/faithbrnttt/FAB-Game-Companion)
-- 💡 Exploring: Machine Learning for games & eCommerce
+- 💡 Exploring: Machine Learning & Data Science
 - 🌎 Website: [faithburnett.dev](https://faithburnett.dev)
 - 📫 Reach me: [faithburnett.dev#contact](https://faithburnett.dev)
 
