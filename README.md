@@ -1,5 +1,4 @@
 <div>
-    <h1">FAB.DEV</h1>
     <img src="banner.jpg"/>
 </div>
 
