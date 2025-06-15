@@ -39,5 +39,5 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [FAB Game Companion](https://github.com/faithbrnttt/React_GameCompanion) | All-in-one media companion with Twitch, RAWG, and game news APIs | React, Express, MongoDB |
-| [Image Editor](https://github.com/faithbrnttt/Image-Editor) | Simple in-browser image editor | HTML, CSS, JS |
+| [Image Editor](https://github.com/faithbrnttt/Django_Sqlite3_Image_Editor) | Simple in-browser image editor | HTML, CSS, JS |
 
