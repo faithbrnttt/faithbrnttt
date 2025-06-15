@@ -12,7 +12,7 @@
 
 <!-- Quick Stats -->
 - 🧠 Bachelor’s in Software Programming (2025)
-- 🔭 Currently building: [FAB Game Companion](https://github.com/faithbrnttt/FAB-Game-Companion)
+- 🔭 Currently building: [FAB Game Companion](https://github.com/faithbrnttt/React_GameCompanion)
 - 💡 Exploring: Machine Learning & Data Science
 - 🌎 Website: [faithburnett.dev](https://faithburnett.dev)
 - 📫 Reach me: [faithburnett.dev#contact](https://faithburnett.dev)
