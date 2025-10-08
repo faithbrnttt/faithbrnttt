@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="banner.jpg" alt="Banner" />
+<img src="linkedBanner.png" alt="Banner" />
 
 <!-- Intro Section -->
 <h1 align="center">Hi, I'm Faith 👋</h1>
@@ -39,4 +39,5 @@
 |--------|-------------|------|
 | [FAB Game Companion](https://github.com/faithbrnttt/React_GameCompanion) | All-in-one media companion with Twitch, RAWG, and game news APIs | React, Express, MongoDB |
 | [Image Editor](https://github.com/faithbrnttt/Django_Sqlite3_Image_Editor) | Simple in-browser image editor | Django, Python, HTML, CSS |
+
 
