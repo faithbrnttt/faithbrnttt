@@ -23,17 +23,6 @@ From lab device integrations and ZPL barcode simulations to ETL dashboards and f
 
 My focus is building scalable, data-driven systems that connect infrastructure, workflows, and people.
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=faithbrnttt&show_icons=true&hide_border=true&count_private=true&title_color=ff69b4&icon_color=00e5ff&text_color=c9d1d9&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faithbrnttt&layout=compact&hide_border=true&title_color=ff69b4&text_color=c9d1d9&bg_color=0d1117" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=faithbrnttt&hide_border=true&background=0D1117&ring=ff69b4&fire=00e5ff&currStreakLabel=ff69b4&sideLabels=c9d1d9&dates=c9d1d9" />
-</p>
-
 ## 🛠 Tech Stack
 
 ### 👩‍💻 Frontend
@@ -103,4 +92,5 @@ I thrive in environments where systems, data, and infrastructure intersect.
 ⭐️ Building scalable systems.
 📊 Turning workflows into architecture.
 💖 Powered by curiosity, discipline, and hot pink energy.
+
 
