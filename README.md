@@ -11,7 +11,7 @@
 
 ## 💖 FABDEV | Systems That Talk to Each Other
 
-I build **real-world systems** — not tutorial projects.
+I build **real-world systems**
 
 From lab device integrations and ZPL barcode simulations to ETL dashboards and full MERN-stack applications, I specialize in:
 
@@ -88,6 +88,7 @@ I'm actively building toward advanced roles in:
 I thrive in environments where systems, data, and infrastructure intersect.
 
 ---
+
 
 
 
