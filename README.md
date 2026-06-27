@@ -1,97 +1,112 @@
-<!-- Intro Section -->
-<h1 align="center">Hi, I'm Faith Burnett 👋</h1>
-<h3 align="center">Full-Stack Developer • Data Engineer • Healthcare Integration Builder</h3>
+<h1 align="center">Faith Burnett</h1>
 
 <p align="center">
-  <a href="https://faithb.dev"><img src="https://img.shields.io/badge/Portfolio-FABDEV.dev-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://github.com/faithbrnttt"><img src="https://img.shields.io/badge/GitHub-faithbrnttt-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <strong>Data Analyst & Software Developer</strong>
+</p>
+
+<p align="center">
+  Focused on data analysis, process automation, operational reporting, and workflow improvement.
 </p>
 
 ---
 
-## 💖 FABDEV | Systems That Talk to Each Other
+## About Me
 
-I build **real-world systems.**
+I am a Software Programming graduate with experience in data analysis, automation, reporting, and process improvement.
 
-From lab device integrations and ZPL barcode simulations to ETL dashboards and full MERN-stack applications, I specialize in:
+My work focuses on understanding how business processes, systems, and data connect. I enjoy identifying inefficiencies, investigating data discrepancies, and building practical solutions that reduce manual effort and improve accuracy.
 
-- 🏥 Healthcare workflow & lab system simulations
-- 🔄 Data pipeline automation & reporting
-- 📦 Device registry + integration architecture
-- 🧠 Workflow logic & charge simulation concepts
-- 📊 Operational analytics dashboards
+Professionally, I work with insurance and operational data using SQL, Excel, Power Query, Office Scripts, Python, and Power BI. My responsibilities include data validation, claims reconciliation, documentation, reporting, and workflow analysis across multiple systems.
 
-My focus is building scalable, data-driven systems that connect infrastructure, workflows, and people.
-
-## 🛠 Tech Stack
-
-### 👩‍💻 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### 🧠 Backend & Data
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### ☁️ Cloud & Infrastructure
-![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-### 📊 Analytics & Reporting
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge)
-
-## 🚀 Featured Projects
-
-### 🧪 Hospital Integration Simulator
-Simulates healthcare device registry, workflow logic, and integration pipelines.
-- Python + Tkinter UI
-- Postgres backend
-- ZPL label simulation
-- Import run tracking + operational metrics
+Outside of work, I build projects that combine software development and analytics, including dashboards, automation tools, reporting solutions, and business intelligence applications.
 
 ---
 
-### 📊 Financial ETL Dashboard
-Operational reporting system built with:
-- SQL Server
-- Power Query
-- Excel automation
-- KPI dashboards
+## Areas of Focus
+
+<table>
+  <tr>
+    <td><strong>Data Analysis</strong></td>
+    <td><strong>Business Intelligence</strong></td>
+    <td><strong>Process Automation</strong></td>
+  </tr>
+  <tr>
+    <td><strong>SQL Development</strong></td>
+    <td><strong>Data Quality</strong></td>
+    <td><strong>Workflow Optimization</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Operational Reporting</strong></td>
+    <td><strong>Claims Reconciliation</strong></td>
+    <td><strong>Documentation</strong></td>
+  </tr>
+</table>
 
 ---
 
-### 🌐 Portfolio 2025 (Full MERN)
-Full-stack React + Express app with:
-- MongoDB Atlas
-- AWS S3 image storage
-- REST APIs
-- Deployed via Ubuntu Apache + Cloudflare tunnel
+## Technologies
 
-- ## 🎯 Current Focus
+### Analytics & Reporting
 
-I'm actively building toward advanced roles in:
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
 
-- Data Engineering
-- Healthcare Integration Engineering
-- EHR Application Analysis
-- Systems Architecture (Workflow & Infrastructure)
+### Automation & Development
 
-I thrive in environments where systems, data, and infrastructure intersect.
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Office_Scripts-0078D4?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### Web Development
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" />
+</p>
 
 ---
 
+## Featured Project Areas
 
+### Insurance & Claims Analytics
 
+Projects focused on claims analysis, financial trends, operational reporting, and insurance data quality.
 
+### Business Intelligence Dashboards
 
+Power BI and Excel-based reporting projects designed to turn raw data into clear performance insights.
 
+### Process Automation
 
+Scripts and tools built to reduce repetitive manual work, standardize data, and improve workflow accuracy.
+
+### Data Reconciliation
+
+Matching and validation workflows designed to compare records across systems and identify discrepancies.
+
+---
+
+## Professional Interests
+
+I am interested in roles involving data analysis, business intelligence, operational analytics, data quality, process improvement, and automation.
+
+My goal is to use data and technology to make business processes easier to understand, easier to maintain, and more reliable.
+```
