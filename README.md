@@ -109,4 +109,3 @@ Matching and validation workflows designed to compare records across systems and
 I am interested in roles involving data analysis, business intelligence, operational analytics, data quality, process improvement, and automation.
 
 My goal is to use data and technology to make business processes easier to understand, easier to maintain, and more reliable.
-```
